@@ -4,10 +4,10 @@ var maxDrops = 100;
 var umbrealla;
 
 function preload(){
-   thunderBolt1Img = loadImage("Images/thunderbolt/1.png");
-   thunderBolt2Img = loadImage("Images/thunderbolt/2.png");
-   thunderBolt3Img = loadImage("Images/thunderbolt/3.png");
-   thunderBolt4Img = loadImage("Images/thunderbolt/4.png");
+   thunderBolt1Img = loadImage("1.png");
+   thunderBolt2Img = loadImage("2.png");
+   thunderBolt3Img = loadImage("3.png");
+   thunderBolt4Img = loadImage("4.png");
 }
 
 function setup(){
